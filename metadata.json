@@ -1,0 +1,6 @@
+{
+  "name": "AURA 3D — Spatial Design Engineering & Architecture",
+  "description": "Where Digital Design Meets the Third Dimension. A cinematic, realistic 3D interactive hero experience engineered with Three.js, physically based rendering, and bespoke architectural artistry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
